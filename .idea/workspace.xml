@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dafcd1b5-ce4f-454b-83ec-70a2c0fe6bbb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab 1/BuddyInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab 1/BuddyInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddressBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BuddyInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BuddyInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +39,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gustavo/Desktop/SYSC 3110/Lab 1",
+    "last_opened_file_path": "/Users/gustavo/Desktop/SYSC 3110/Lab 3",
     "onboarding.tips.debug.path": "/Users/gustavo/Desktop/SYSC 3110/Lab 1/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -91,7 +86,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/AddressBook.java</url>
           <line>26</line>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
